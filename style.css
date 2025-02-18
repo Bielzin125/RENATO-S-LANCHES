@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-style: italic;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background: #812d2d;
+}
+
+
+.graduate-regular {
+    font-family: "Graduate", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h1,p{
+    font-family: "Graduate";
+   
+}
+
+img{
+    border: 3px solid;
+    border-radius: 20px;
+}
+
+img:hover{
+    transition: 1s;
+    transform: scale(1.2);
+}
+
+video{
+    filter: drop-shadow(15px 15px 15px black);
+}
+
+#RENATAO4{
+    font-size: 50px;
+}
